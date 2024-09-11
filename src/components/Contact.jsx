@@ -31,7 +31,7 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    emailjs
+    emailjsqqqqqqq
       .send(
         import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
