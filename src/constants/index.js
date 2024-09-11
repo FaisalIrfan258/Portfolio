@@ -149,13 +149,13 @@ const projects = [
     description: "A website custom made for according to the clients requirement which shocwcases their work and vision a cool way.",
    
     source_code_link: "https://uixservices.com",
-    image: "src/assets/uix.png"
+    image: "./src/assets/uix.png"
   },
   {
     name: "OMNIT",
     description:
       "A website custom made for according to the clients requirement which shocwcases their work and vision a cool way.",
-      image: "src/assets/omnit.png",
+      image: "./src/assets/omnit.png",
 
     source_code_link: "https://omnitenterprise.com",
   },
@@ -163,7 +163,7 @@ const projects = [
     name: "Data Visualization",
     description:
       "A website that visualizes data from a CSV file and displays in the format of charts and graphs and is completely dynamic",
-      image: "src/assets/data.png",
+      image: "./src/assets/data.png",
 
     source_code_link: "https://github.com/FaisalIrfan258/Data-Visualization-React",
   },
